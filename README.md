@@ -1,2 +1,2 @@
 # AMD_2025_Distributed_Inference_Operator_Optimization_Challenge_HaHa
-Code four AMD_2025_Distributed_Inference_Operator_Optimization_Challenge
+Code for AMD_2025_Distributed_Inference_Operator_Optimization_Challenge
